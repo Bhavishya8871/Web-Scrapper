@@ -1,0 +1,170 @@
+[
+    {
+        "category": "Test Sites",
+        "name": "Prestigio Smar...",
+        "price": "$299",
+        "rating": 0,
+        "reviews": 12,
+        "url": "https://webscraper.io/test-sites/e-commerce/ajax/product/62"
+    },
+    {
+        "category": "Test Sites",
+        "name": "Asus EeeBook R...",
+        "price": "$433.3",
+        "rating": 0,
+        "reviews": 1,
+        "url": "https://webscraper.io/test-sites/e-commerce/ajax/product/77"
+    },
+    {
+        "category": "Test Sites",
+        "name": "Dell Latitude...",
+        "price": "$1143.4",
+        "rating": 0,
+        "reviews": 5,
+        "url": "https://webscraper.io/test-sites/e-commerce/ajax/product/110"
+    },
+    {
+        "category": "Test Sites",
+        "name": "Asus VivoBook X4",
+        "price": "$295.99",
+        "rating": 0,
+        "reviews": 1,
+        "url": "https://webscraper.io/test-sites/e-commerce/ajax/product/60"
+    },
+    {
+        "category": "Test Sites",
+        "name": "Prestigio SmartB",
+        "price": "$299",
+        "rating": 0,
+        "reviews": 9,
+        "url": "https://webscraper.io/test-sites/e-commerce/ajax/product/61"
+    },
+    {
+        "category": "Test Sites",
+        "name": "Prestigio SmartB",
+        "price": "$299",
+        "rating": 0,
+        "reviews": 9,
+        "url": "https://webscraper.io/test-sites/e-commerce/ajax/product/62"
+    },
+    {
+        "category": "Test Sites",
+        "name": "Aspire E1-510",
+        "price": "$306.99",
+        "rating": 0,
+        "reviews": 2,
+        "url": "https://webscraper.io/test-sites/e-commerce/ajax/product/32"
+    },
+    {
+        "category": "Test Sites",
+        "name": "Lenovo V110-15IA",
+        "price": "$321.94",
+        "rating": 0,
+        "reviews": 12,
+        "url": "https://webscraper.io/test-sites/e-commerce/ajax/product/63"
+    },
+    {
+        "category": "Test Sites",
+        "name": "Lenovo V110-15IA",
+        "price": "$356.49",
+        "rating": 0,
+        "reviews": 12,
+        "url": "https://webscraper.io/test-sites/e-commerce/ajax/product/64"
+    },
+    {
+        "category": "Test Sites",
+        "name": "Lenovo IdeaTab",
+        "price": "$69.99",
+        "rating": 0,
+        "reviews": 12,
+        "url": "https://webscraper.io/test-sites/e-commerce/ajax/product/10"
+    },
+    {
+        "category": "Test Sites",
+        "name": "IdeaTab A3500L",
+        "price": "$88.99",
+        "rating": 0,
+        "reviews": 5,
+        "url": "https://webscraper.io/test-sites/e-commerce/ajax/product/15"
+    },
+    {
+        "category": "Test Sites",
+        "name": "Acer Iconia",
+        "price": "$96.99",
+        "rating": 0,
+        "reviews": 3,
+        "url": "https://webscraper.io/test-sites/e-commerce/ajax/product/11"
+    },
+    {
+        "category": "Test Sites",
+        "name": "Galaxy Tab 3",
+        "price": "$97.99",
+        "rating": 0,
+        "reviews": 4,
+        "url": "https://webscraper.io/test-sites/e-commerce/ajax/product/18"
+    },
+    {
+        "category": "Test Sites",
+        "name": "Iconia B1-730HD",
+        "price": "$99.99",
+        "rating": 0,
+        "reviews": 10,
+        "url": "https://webscraper.io/test-sites/e-commerce/ajax/product/27"
+    },
+    {
+        "category": "Test Sites",
+        "name": "Memo Pad HD 7",
+        "price": "$101.99",
+        "rating": 0,
+        "reviews": 12,
+        "url": "https://webscraper.io/test-sites/e-commerce/ajax/product/23"
+    },
+    {
+        "category": "Test Sites",
+        "name": "Nokia 123",
+        "price": "$24.99",
+        "rating": 0,
+        "reviews": 10,
+        "url": "https://webscraper.io/test-sites/e-commerce/ajax/product/1"
+    },
+    {
+        "category": "Test Sites",
+        "name": "LG Optimus",
+        "price": "$57.99",
+        "rating": 0,
+        "reviews": 7,
+        "url": "https://webscraper.io/test-sites/e-commerce/ajax/product/2"
+    },
+    {
+        "category": "Test Sites",
+        "name": "Samsung Galaxy",
+        "price": "$93.99",
+        "rating": 0,
+        "reviews": 7,
+        "url": "https://webscraper.io/test-sites/e-commerce/ajax/product/3"
+    },
+    {
+        "category": "Test Sites",
+        "name": "Nokia X",
+        "price": "$109.99",
+        "rating": 0,
+        "reviews": 10,
+        "url": "https://webscraper.io/test-sites/e-commerce/ajax/product/4"
+    },
+    {
+        "category": "Test Sites",
+        "name": "Sony Xperia",
+        "price": "$118.99",
+        "rating": 0,
+        "reviews": 4,
+        "url": "https://webscraper.io/test-sites/e-commerce/ajax/product/5"
+    },
+    {
+        "category": "Test Sites",
+        "name": "Ubuntu Edge",
+        "price": "$499.99",
+        "rating": 0,
+        "reviews": 3,
+        "url": "https://webscraper.io/test-sites/e-commerce/ajax/product/6"
+    }
+]
